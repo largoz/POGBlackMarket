@@ -16,10 +16,13 @@ goods.
 
 ## His costume
 
-![The three looks of the goblin in black: coat and hat, with a thief's mask, with a bandana](https://raw.githubusercontent.com/largoz/POGBlackMarket/main/docs/looks.png)
+![His three looks in the game: coat and hat, with a thief's mask, with a bandana; from the front, three quarters, the side and the back](https://raw.githubusercontent.com/largoz/POGBlackMarket/main/docs/looks.png)
 
-The coat and the hat start locked. **Come within six metres of him in a dungeon** and both are in your wardrobe from then on: the coat
-among the clothes, the hat among the hair styles. Colour them as you like; the hat takes your hair colour. In the picture they are black.
+![Running, walking and crouching in the coat](https://raw.githubusercontent.com/largoz/POGBlackMarket/main/docs/moves.gif)
+
+The coat and the hat stand in your wardrobe under a padlock. **Come within six metres of him in a dungeon** and both are yours from then
+on: the coat among the clothes, the hat among the hair styles. Colour them as you like; the hat takes your hair colour. In the pictures
+they are in the darkest colours.
 Every player who has the mod finds them, the host and the others; a player who joins while the others are in a dungeon is a ghost there
 and finds them on a later meeting.
 
