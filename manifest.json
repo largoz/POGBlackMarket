@@ -1,6 +1,6 @@
 {
   "name": "Black_Market",
-  "version_number": "0.1.1",
+  "version_number": "0.1.2",
   "website_url": "https://github.com/largoz/POGBlackMarket",
   "description": "Alpha. A goblin in a trench coat sometimes keeps a dungeon merchant's stall and sells human things. Meet him to unlock his coat and hat.",
   "dependencies": [

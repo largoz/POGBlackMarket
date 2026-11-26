@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2 (2026-11-26)
+
+- The store page: a picture of his three looks in the darker coat; a new icon from the game. Nothing else changes.
+
 ## 0.1.1 (2026-11-26)
 
 - The coat's cloth is darker: in the darkest colour of the wardrobe it is near black, like the hat. Every colour of it is a little darker.

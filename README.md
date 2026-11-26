@@ -16,9 +16,7 @@ goods.
 
 ## His costume
 
-![His three looks in the game: coat and hat, with a thief's mask, with a bandana; from the front, three quarters, the side and the back](https://raw.githubusercontent.com/largoz/POGBlackMarket/main/docs/looks.png)
-
-![Running, walking and crouching in the coat](https://raw.githubusercontent.com/largoz/POGBlackMarket/main/docs/moves.gif)
+![His three looks: coat and hat, with a thief's mask, with a bandana; from the front, three quarters, the side and the back](https://raw.githubusercontent.com/largoz/POGBlackMarket/main/docs/looks.png)
 
 The coat and the hat stand in your wardrobe under a padlock. **Come within six metres of him in a dungeon** and both are yours from then
 on: the coat among the clothes, the hat among the hair styles. Colour them as you like; the hat takes your hair colour. In the pictures

@@ -25,7 +25,7 @@ namespace POGBlackMarket
     public sealed class BlackMarketMod : MelonMod
     {
         internal const string Id = "POGBlackMarket";
-        internal const string Version = "0.1.1";
+        internal const string Version = "0.1.2";
 
         public override void OnInitializeMelon()
         {
